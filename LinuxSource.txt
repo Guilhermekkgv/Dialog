@@ -2627,7 +2627,7 @@ function Linux.Create(config)
             
             local HoverEffect = Linux.Instance("Frame", {
                 Parent = BtnFrame,
-                BackgroundColor3 = Color3.fromRGB(38, 38, 38),
+                BackgroundColor3 = Color3.fromRGB(31, 31, 31),
                 BackgroundTransparency = 0.7,
                 Size = UDim2.new(0, 0, 1, 0),
                 Position = UDim2.new(0.5, 0, 0, 0),
